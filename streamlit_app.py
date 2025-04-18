@@ -1,5 +1,5 @@
 import streamlit as st
 
-st.title('🎈 App Names')
+st.title(' This is a Diamond Prediction App')
 
-st.write('Hello world!')
+st.write('This app builds on data collection from merchant !')
